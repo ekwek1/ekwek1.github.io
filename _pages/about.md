@@ -15,7 +15,7 @@ My interests include efficient ML and its usage in real-world applications.
 
 ## News
 - **Jan 2026:** [Soprano](https://github.com/ekwek1/soprano) has passed **1,000 stars** on Github! Thank you for everyone's interest!
-- **Jan 2026:** Selected as Honorable Mention for the CRA Outstanding Undergraduate Researcher Award.
+- **Jan 2026:** Selected as Honorable Mention for the 2025-2026 CRA Outstanding Undergraduate Researcher Award.
 - **Dec 2025:** We released **Soprano TTS**, a high-fidelity text-to-speech model capable generating speech at up to 2000x realtime. Check it out on [Github](https://github.com/ekwek1/soprano)!
 - **Sept 2025:** COMPACT was accepted by the **1st Efficient Reasoning Workshop @ NeurIPS 2025**.
 
