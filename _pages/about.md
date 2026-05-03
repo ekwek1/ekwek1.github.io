@@ -12,6 +12,7 @@ My name is Eugene Kwek, and I am a final-year undergraduate student at Pennsylva
 My interests include efficient ML and its usage in real-world applications.
 
 ## News
+- **May 2026:** COMPACT was accepted at **IJCAI 2026**.
 - **Apr 2026:** Incredibly honored to be offered the **NSF 2026 Graduate Research Fellowship**!
 - **Jan 2026:** One paper accepted by **ICLR 2026**.
 - **Jan 2026:** [Soprano](https://github.com/ekwek1/soprano) has reached **1,000 stars** on Github! Thank you for everyone's interest!
@@ -21,8 +22,8 @@ My interests include efficient ML and its usage in real-world applications.
 
 ## Publications
 1. Nan Zhang, **Eugene Kwek**, Yusen Zhang, Muyu Pan, Suhang Wang, Prasenjit Mitra, Rui Zhang. [QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals](https://arxiv.org/abs/2602.02581). Preprint, 2026.
-2. Nan Zhang, **Eugene Kwek**, Yusen Zhang, Ngoc-Hieu Nguyen, Prasenjit Mitra, and Rui Zhang. [When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models](https://arxiv.org/abs/2504.02010). ICLR, 2026.
-3. **Eugene Kwek** and Wenpeng Yin. [COMPACT: Common-Token Optimized Model Pruning Across Channels and Tokens](https://arxiv.org/abs/2509.06836). Efficient Reasoning Workshop @ NeurIPS, 2025.
+2. **Eugene Kwek** and Wenpeng Yin. [COMPACT: Common-Token Optimized Model Pruning Across Channels and Tokens](https://arxiv.org/abs/2509.06836). IJCAI, 2026.
+3. Nan Zhang, **Eugene Kwek**, Yusen Zhang, Ngoc-Hieu Nguyen, Prasenjit Mitra, and Rui Zhang. [When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models](https://arxiv.org/abs/2504.02010). ICLR, 2026.
 
 ## Service
 - **Reviewer:** `ER Workshop @ NeurIPS 2025`, `NewSumm Workshop @ EMNLP 2025`, `ARR January 2026`
