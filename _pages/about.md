@@ -1,13 +1,14 @@
 ---
 permalink: /
 title: "About me"
+seo_title: "Eugene Kwek"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Eugene Kwek, and I am a first-year PhD student at the University of Southern California, where I'm fortunate to be advised by [Robin Jia](https://robinjia.github.io/). I completed by B.S. in computer science at Pennsylvania State University, where I was co-advised by [Wenpeng Yin](https://www.wenpengyin.org/) and [Rui Zhang](https://ryanzhumich.github.io/index.html).
+My name is Eugene Kwek, and I am a first-year PhD student at the University of Southern California, where I'm fortunate to be advised by [Robin Jia](https://robinjia.github.io/). I completed my B.S. in computer science at Pennsylvania State University, where I was co-advised by [Wenpeng Yin](https://www.wenpengyin.org/) and [Rui Zhang](https://ryanzhumich.github.io/index.html).
 
 My interests include efficient ML and its usage in real-world applications.
 
